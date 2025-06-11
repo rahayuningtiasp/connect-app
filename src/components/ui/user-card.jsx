@@ -1,4 +1,4 @@
-export default function UserCard({ fullname, email, role, status }) {
+export default function UserCard({ fullname, email, role, status, berita }) {
   return (
     <div className="border rounded-lg p-2 flex justify-between items-center">
       <div>

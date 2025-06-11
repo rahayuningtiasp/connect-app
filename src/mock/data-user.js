@@ -1,6 +1,6 @@
 export const dataUser = [
   {
-    fullname: "Sucinta Salsabila",
+    fullname: "Rahayuningtias Sekar Palupi",
     email: "2313086@universitasmulia.ac.id",
     role: "Admin",
     status: "Aktif",
